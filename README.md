@@ -1,9 +1,4 @@
-# About me
-
-<!--
-**isaacsmith12918/isaacsmith12918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Work at MedCare MSO
+# Remote Work at MedCare MSO
 
 I’m currently working remotely at [MedCare MSO](https://medcaremso.com) with a supportive team of healthcare researchers. My focus is on developing Revenue Cycle Management and EHR content that helps healthcare providers increase profitability and improve efficiency throughout the treatment process.
 
